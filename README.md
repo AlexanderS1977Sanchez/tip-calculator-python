@@ -28,5 +28,3 @@ It was designed as a beginner-friendly project with:
 ✅ Unit tests included (using Python built-in `unittest`)
 
 ---
-
-## Project Structure
